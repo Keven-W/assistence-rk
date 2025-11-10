@@ -95,7 +95,7 @@ function Contact() {
 
         <div className="grid grid-cols-3 gap-6 text-center animate-fadeInUp">
           {[
-            { number: '100+', label: 'Clientes Atendidos' },
+           
             { number: '24h', label: 'Resposta Rápida' },
             { number: '5⭐', label: 'Satisfação' }
           ].map((stat, index) => (

@@ -1,7 +1,7 @@
 import { MessageCircle, Phone, CheckCircle2 } from 'lucide-react';
 
 function Contact() {
-  const whatsappNumber = '5511999999999';
+  const whatsappNumber = '5511943820411';
   const whatsappMessage = 'Olá! Gostaria de saber mais sobre os serviços de assistência técnica.';
 
   const handleWhatsAppClick = () => {

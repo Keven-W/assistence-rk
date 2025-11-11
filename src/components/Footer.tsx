@@ -6,7 +6,7 @@ function Footer() {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center space-y-6">
           <div className="text-3xl font-bold gradient-text">
-            TechAssist Pro
+            Assistence-RK
           </div>
           <p className="text-zinc-300 text-lg max-w-2xl mx-auto">
             Assistência técnica especializada em software e otimização de computadores. Seu computador sempre funcionando perfeitamente.

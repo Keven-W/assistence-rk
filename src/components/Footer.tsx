@@ -13,7 +13,7 @@ function Footer() {
           </p>
           <div className="pt-6 border-t border-amber-400/20">
             <p className="text-zinc-500 text-sm">
-              © {currentYear} TechAssist Pro. Todos os direitos reservados.
+              © {currentYear} Assistence-RK. Todos os direitos reservados. 
             </p>
           </div>
         </div>
